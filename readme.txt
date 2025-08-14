@@ -1,4 +1,4 @@
-=== Post Reaction ===
+=== Post Reaction – Add Like or Emoji Reactions to Posts ===
 Contributors: bplugins, abuhayat, shehabulislam
 Tags: post reactions, love, like, Reaction, care
 Requires at least: 5.7
